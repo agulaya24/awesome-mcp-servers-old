@@ -410,6 +410,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools for identity and access management. Enables user authentication, authorization.
 
+- <img src="https://base-layer.ai/icon.svg" height="14"/> [Base Layer](https://github.com/agulaya24/BaseLayer) - Behavioral compression for AI identity. Extracts behavioral patterns from text and compresses them into portable operating guides that tell AI how a specific person reasons, communicates, and makes decisions. 47-predicate behavioral grammar, three-layer identity model (anchors/core/predictions), MCP server for Claude integration.
+
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
 
 <br />
